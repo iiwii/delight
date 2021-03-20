@@ -1,0 +1,4 @@
+build
+data
+data-bin
+*.egg-info
